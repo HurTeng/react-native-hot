@@ -1,0 +1,18 @@
+'use strict';
+
+import React, { Component } from 'react';
+import { View,Text } from 'react-native';
+import TabView from './TabView';
+
+export default class Wrapper extends Component{
+    constructor(props){
+      super(props)
+    }
+    render(){
+        return(
+          <View style={{flex: 1}}>
+            <TabView navigator={this.props.navigator}/>
+          </View>
+        )
+    }
+}
