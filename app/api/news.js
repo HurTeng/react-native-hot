@@ -20,7 +20,6 @@ export function getNewsByChannel(channel, start = 0, end = 10) {
                         let json = JSON.parse(content);
                         list.push(json); // 添加到列表中
                         // console.log(json.abstract);
-
                         /*                        //为每条新闻配上key
                                                 item.key = item.docid;
                                                 //处理图片地址

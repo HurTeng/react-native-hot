@@ -1,0 +1,1 @@
+__d(function(n,o,t,r){'use strict';t.exports=function(){var n;return(n=console).log.apply(n,arguments)}},106);

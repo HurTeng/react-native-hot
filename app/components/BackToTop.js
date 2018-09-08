@@ -6,6 +6,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 
 import {px2dp} from '../util/format';
 
+// 返回顶部的组件
 export default class BackToTop extends Component{
     constructor(props){
       super(props);
@@ -43,4 +44,4 @@ const styles = StyleSheet.create({
     color:'white',
     fontSize:px2dp(25)
   }
-})
+});

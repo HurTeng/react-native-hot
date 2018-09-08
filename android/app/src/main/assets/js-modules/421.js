@@ -1,0 +1,1 @@
+__d(function(r,n,t,o){t.exports=function(r,n){var t=-1,o=r.length;for(n||(n=Array(o));++t<o;)n[t]=r[t];return n}},421);

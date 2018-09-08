@@ -1,0 +1,1 @@
+__d(function(r,e,t,f){'use strict';var n=e(83);t.exports=function(r){if(r instanceof ArrayBuffer&&(r=new Uint8Array(r)),r instanceof Uint8Array)return n.fromByteArray(r);if(!ArrayBuffer.isView(r))throw new Error('data must be ArrayBuffer or typed array');var e=r,t=e.buffer,f=e.byteOffset,a=e.byteLength;return n.fromByteArray(new Uint8Array(t,f,a))}},82);

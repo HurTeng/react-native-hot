@@ -1,0 +1,1 @@
+__d(function(r,n,a,o){var t=n(91),f=n(92);a.exports=function(r,n,a){var o=n&&a||0;'string'==typeof r&&(n='binary'==r?new Array(16):null,r=null);var i=(r=r||{}).random||(r.rng||t)();if(i[6]=15&i[6]|64,i[8]=63&i[8]|128,n)for(var u=0;u<16;++u)n[o+u]=i[u];return n||f(i)}},93);

@@ -1,0 +1,1 @@
+__d(function(t,e,r,f){var n=e(440);r.exports=function(t,e){var r=e?n(t.buffer):t.buffer;return new t.constructor(r,t.byteOffset,t.byteLength)}},442);

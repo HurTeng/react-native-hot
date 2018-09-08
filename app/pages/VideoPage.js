@@ -181,4 +181,4 @@ const styles = StyleSheet.create({
     videoNum: {
         fontSize: px2dp(14)
     }
-})
+});

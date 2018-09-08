@@ -1,0 +1,1 @@
+__d(function(n,r,t,e){var i=800,o=16,u=Date.now;t.exports=function(n){var r=0,t=0;return function(){var e=u(),a=o-(e-t);if(t=e,a>0){if(++r>=i)return arguments[0]}else r=0;return n.apply(void 0,arguments)}}},478);

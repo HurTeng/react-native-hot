@@ -1,0 +1,1 @@
+__d(function(n,t,i,o){'use strict';var f=t(15).I18nManager||{isRTL:!1,doLeftAndRightSwapInRTL:!0,allowRTL:function(){},forceRTL:function(){},swapLeftAndRightInRTL:function(){}};i.exports=f},243);

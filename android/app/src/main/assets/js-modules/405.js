@@ -1,0 +1,1 @@
+__d(function(n,t,r,e){var o=9007199254740991,u=/^(?:0|[1-9]\d*)$/;r.exports=function(n,t){var r=typeof n;return!!(t=null==t?o:t)&&('number'==r||'symbol'!=r&&u.test(n))&&n>-1&&n%1==0&&n<t}},405);

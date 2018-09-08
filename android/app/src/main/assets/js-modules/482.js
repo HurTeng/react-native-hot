@@ -1,0 +1,1 @@
+__d(function(r,n,i,o){var t=n(393),v=n(453),f=n(405),u=n(372),a=n(464);i.exports=function(r,n,i,o){if(!u(r))return r;for(var e=-1,d=(n=v(n,r)).length,l=d-1,c=r;null!=c&&++e<d;){var _=a(n[e]),g=i;if(e!=l){var h=c[_];void 0===(g=o?o(h,_,c):void 0)&&(g=u(h)?h:f(n[e+1])?[]:{})}t(c,_,g),c=c[_]}return r}},482);

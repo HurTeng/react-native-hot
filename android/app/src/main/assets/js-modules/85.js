@@ -1,0 +1,1 @@
+__d(function(e,t,s,r){'use strict';var u=t(86),a=babelHelpers.interopRequireDefault(u);a.default&&a.default.fetch?s.exports=a.default:s.exports={fetch:fetch,Headers:Headers,Request:Request,Response:Response}},85);

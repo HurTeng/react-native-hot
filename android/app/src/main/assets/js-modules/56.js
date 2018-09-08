@@ -1,0 +1,1 @@
+__d(function(r,t,e,n){'use strict';var f,i=t(13);e.exports=function r(e){if(e){if(i(!0!==e,'style may be false but not true'),!Array.isArray(e))return(function(r){return void 0===f&&(f=t(57)),'number'==typeof r?f.getByID(r):r})(e);for(var n={},u=0,o=e.length;u<o;++u){var a=r(e[u]);if(a)for(var s in a)n[s]=a[s]}return n}}},56);

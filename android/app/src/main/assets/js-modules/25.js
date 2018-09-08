@@ -1,0 +1,1 @@
+__d(function(e,n,r,o){'use strict';var w;n(26).canUseDOM&&(w=window.performance||window.msPerformance||window.webkitPerformance),r.exports=w||{}},25);

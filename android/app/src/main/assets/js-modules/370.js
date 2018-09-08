@@ -1,0 +1,1 @@
+__d(function(t,o,r,e){var n=o(371),c=o(373),p=o(372),a=o(375),u=/^\[object .+?Constructor\]$/,i=Function.prototype,s=Object.prototype,$=i.toString,f=s.hasOwnProperty,g=RegExp('^'+$.call(f).replace(/[\\^$.*+?()[\]{}|]/g,'\\$&').replace(/hasOwnProperty|(function).*?(?=\\\()| for .+?(?=\\\])/g,'$1.*?')+'$');r.exports=function(t){return!(!p(t)||c(t))&&(n(t)?g:u).test(a(t))}},370);

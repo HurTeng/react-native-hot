@@ -1,0 +1,1 @@
+__d(function(n,t,e,r){var o=t(349),u=t(455),l=/\.|\[(?:[^[\]]*|(["'])(?:(?!\1)[^\\]|\\.)*?\1)\]/,b=/^\w*$/;e.exports=function(n,t){if(o(n))return!1;var e=typeof n;return!('number'!=e&&'symbol'!=e&&'boolean'!=e&&null!=n&&!u(n))||b.test(n)||!l.test(n)||null!=t&&n in Object(t)}},454);

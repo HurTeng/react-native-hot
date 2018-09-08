@@ -1,0 +1,1 @@
+__d(function(e,o,t,n){var r=o(345),c='object'==typeof n&&n&&!n.nodeType&&n,f=c&&'object'==typeof t&&t&&!t.nodeType&&t,p=f&&f.exports===c?r.Buffer:void 0,i=p?p.allocUnsafe:void 0;t.exports=function(e,o){if(o)return e.slice();var t=e.length,n=i?i(t):new e.constructor(t);return e.copy(n),n}},420);

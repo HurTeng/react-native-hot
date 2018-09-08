@@ -1,0 +1,1 @@
+__d(function(e,t,o,r){'use strict';var a=t(242),n=t(112),c=t(39),p=t(13);t(281),o.exports=function(e,t,o,r){p(o,'Expect to have a valid rootTag, instead got ',o),c.render(n.createElement(a,{rootTag:o,WrapperComponent:r},n.createElement(e,babelHelpers.extends({},t,{rootTag:o}))),o)}},280);

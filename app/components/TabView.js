@@ -15,6 +15,7 @@ import Find from '../pages/Find';
 import VideoPage from '../pages/VideoPage';
 import My from '../pages/My';
 
+// 顶部导航切换栏
 export default class TabView extends Component {
   constructor(props){
     super(props);

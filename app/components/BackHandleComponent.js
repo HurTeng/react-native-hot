@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {BackHandler} from 'react-native';
 
+// 后退组件
 export default class BackHandleComponent extends Component{
     constructor(props){
         super(props);
@@ -18,7 +19,7 @@ export default class BackHandleComponent extends Component{
     _handleBack() {
         const navigator = this.props.navigator;
         if (navigator && navigator.getCurrentRoutes().length > 1) {
-            navigator.pop()
+            navigator.pop();
             return true;
         }
         return false;

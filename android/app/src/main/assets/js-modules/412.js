@@ -1,0 +1,1 @@
+__d(function(t,o,r,n){var c=Object.prototype;r.exports=function(t){var o=t&&t.constructor;return t===('function'==typeof o&&o.prototype||c)}},412);

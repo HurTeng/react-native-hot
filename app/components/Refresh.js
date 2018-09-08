@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {RefreshControl} from 'react-native';
 
+// loading刷新组件
 export default class Refresh extends Component{
     render() {
         return (

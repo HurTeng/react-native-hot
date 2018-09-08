@@ -1,0 +1,1 @@
+__d(function(n,r,e,t){'use strict';var o=r(59);e.exports=function(n,r){return function(e,t,a){o[a]||void 0===e[t]||console.warn("`"+t+"` supplied to `"+a+"` has been deprecated. "+r);for(var c=arguments.length,i=Array(c>3?c-3:0),u=3;u<c;u++)i[u-3]=arguments[u];return n.apply(void 0,[e,t,a].concat(i))}}},125);

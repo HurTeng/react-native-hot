@@ -201,4 +201,4 @@ const styles = StyleSheet.create({
     barIcon: {
         fontSize: px2dp(20)
     }
-})
+});

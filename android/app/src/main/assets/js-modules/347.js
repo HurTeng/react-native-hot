@@ -1,0 +1,1 @@
+__d(function(t,r,o,n){var a=r(344),e=Object.prototype,c=e.hasOwnProperty,i=e.toString,v=a?"function"==typeof a?a.toStringTag:"@@toStringTag":void 0;o.exports=function(t){var r=c.call(t,v),o=t[v];try{t[v]=void 0;var n=!0}catch(t){}var a=i.call(t);return n&&(r?t[v]=o:delete t[v]),a}},347);

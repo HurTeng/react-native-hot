@@ -1,0 +1,1 @@
+__d(function(t,e,r,s){'use strict';var n=[];r.exports={registerAsset:function(t){return n.push(t)},getAssetByID:function(t){return n[t-1]}}},143);
