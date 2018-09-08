@@ -6,6 +6,7 @@
 * [项目地址](https://github.com/HurTeng/react-native-hot)
 * [点击下载](https://github.com/HurTeng/react-native-hot/blob/master/sample/app-release.apk?raw=true)
 * 扫码下载
+
 ![QRCode](sample/QRCode.png)
 
 ## 项目截图
